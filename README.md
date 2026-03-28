@@ -1,22 +1,23 @@
-# 📝Gemini Text Summarizer
-This is an AI-powered text summarization web app built using Streamlit and Google Gemini API.
+# 🚀 Gemini Text Summarizer
+
+An AI-powered web application that converts long text into concise summaries using Google Gemini.
 
 ## 🚀 Live App  
 👉 [Click here to open the app](https://app-app-dnggdaak2dmup7w9bktcgv.streamlit.app/)
 
-## Features
+## ✨ Features
 - Summarizes long text into short summaries
-- Uses Gemini AI model
-- Simple and clean UI
-- Deployed online
+- Uses Google Gemini AI model
+- Clean and user-friendly interface
+- Deployed online and accessible via browser
 
-## Tech Stack
+## 🛠 Tech Stack
 - Python
 - Streamlit
-- Gemini API
+- Google Gemini API
 
-## How to Use
-1. Open the app link
-2. Enter text
-3. Click "Summarize"
-4. Get the summary instantly
+## 📌 How to Use
+1. Open the live app link  
+2. Enter your text  
+3. Click **Summarize**  
+4. Get instant summary  
